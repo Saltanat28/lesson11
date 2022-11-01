@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Tapshira {
+public class Tapshira {
+
 }
